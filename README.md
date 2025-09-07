@@ -1,5 +1,5 @@
 <h1 align="center">I'm Chester Jeffrey S. Baltazar</h1>
-<h2 align="center">An inspiring Web dev specializing in backend and Database management specially MySQL</h2>
+<h4 align="center">An inspiring Web dev specializing in backend and Database management specially MySQL</h4>
 
 ### ⚙️ Programming Language and Tools
 <p align="center">
