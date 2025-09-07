@@ -12,9 +12,3 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white" alt="JSS">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chesterbaltazar&show_icons=true&locale=en&layout=compact" alt="chesterbaltazar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chesterbaltazar&show_icons=true&locale=en" alt="chesterbaltazar" /></p>
-
