@@ -8,8 +8,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white" 
      alt="Git Bash" 
-     width="110" 
-     height="30">
+     width="105" 
+     height="20">
 
 </p>
 
