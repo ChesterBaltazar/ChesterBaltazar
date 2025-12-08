@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat&logo=git&logoColor=white" 
      alt="Git Bash" 
-     width="150" 
+     width="120" 
      height="30">
 
 <img src="https://img.shields.io/badge/Git%20Bash-FFE000?style=flat&logo=git&logoColor=black">
