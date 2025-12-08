@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white" 
      alt="Git Bash" 
      width="110" 
-     height="27">
+     height="28">
 
 </p>
 
