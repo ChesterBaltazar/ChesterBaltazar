@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" 
-     width="120" 
-     height="20">
+     width="110" 
+     height="28">
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" 
-     width="120" 
-     height="20">
+     width="110" 
+     height="28">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" 
      width="110" 
      height="28">
