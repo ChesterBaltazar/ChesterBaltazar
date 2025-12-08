@@ -11,8 +11,8 @@
 <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" alt="JS" height="44" width="115">
 <img src="https://img.shields.io/badge/Node.js-%339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge" height="28" width="110">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" 
-     width="120" 
-     height="20">
+     width="110" 
+     height="28">
 <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white" 
      alt="Git Bash" 
      width="110" 
