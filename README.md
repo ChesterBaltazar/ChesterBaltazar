@@ -22,7 +22,7 @@
 <img 
 src=https://img.shields.io/badge/Git-F05032?style=flat&-&logo=git&logoColor=white
      alt="Git"
-     width="100"
+     width="50"
      height="28">
           
 </p>
