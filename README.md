@@ -25,7 +25,7 @@ src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&-square&logo=mongod
      width="110"
      height="28>
 img 
-src="https://img.shields.io/badge/Git-F05032?style=flat&-square&logo=git&logoColor=white
+src=https://img.shields.io/badge/Git-F05032?style=flat&-&logo=git&logoColor=white
      alt="Git"
      width="110"
      height="28">
