@@ -1,5 +1,5 @@
 <h1 align="center">I'm Chester Jeffrey S. Baltazar</h1>
-<h4 align="center">An inspiring Web dev specializing in backend and Database management specially MySQL</h4>
+<h4 align="center">An inspiring Web dev and Penetration Tester specializing in backend and Database management specially MySQL</h4>
 <p>🎓through my journey i have quite an experience in Mysql, git, js, and mostly Nodejs.</p>
 
 ### ⚙️ Programming Language and Tools
