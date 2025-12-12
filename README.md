@@ -21,6 +21,11 @@
      alt="Git Bash" 
      width="110" 
      height="28">
+<img 
+src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" 
+     alt="Git Bash"
+     width="110"
+     height="28>
 
 </p>
 
