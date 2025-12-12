@@ -22,8 +22,8 @@
      width="110" 
      height="28">
 <img 
-src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" 
-     alt="Git Bash"
+src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&-square&logo=mongodb&logoColor=FFFFFF" 
+     alt="Mongodb"
      width="110"
      height="28>
 
