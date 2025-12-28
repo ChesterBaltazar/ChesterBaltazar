@@ -1,27 +1,27 @@
-
-<h1 align="center">Hi My Name is Chester Baltazar</h1>
+<h1 align="center">Hi, I'm Chester Baltazar</h1>
 
 <h4 align="center">An Aspiring Cyber Security Specialist (Penetration Tester)</h4>
 
 ---
 
-### 👤 My Socials: 
+### 👤 My Socials
 
+*(Add your social links here - LinkedIn, Twitter, etc.)*
 
 ---
 
 ### 📌 My Journey: From Nothing to Cyber Security Aspirant
 
-My journey into technology it wasn't as easy like a straight path it was hard and i'm so far from reaching it, And i was inspired by the eldest brother and at first i self taught myself some basic HTML and CSS And at some point some of my knowledge was taught by my 2 brothers most of them from the Eldest. 
+My journey into technology wasn't easy—it wasn't a straight path, and I'm still far from reaching my ultimate goals. I was inspired by my eldest brother and started by teaching myself basic HTML and CSS. Most of my foundational knowledge was taught by my two brothers, with my eldest brother being my primary mentor.
 
 #### 🎯 Current Focus & Future Vision
 Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
 
-- Penetration Testing Methodologies
-- Vulnerability Assessment
-- Security Auditing
-- Incident Response
-- Ethical Hacking Techniques
+- **Penetration Testing Methodologies**
+- **Vulnerability Assessment**
+- **Security Auditing**
+- **Incident Response**
+- **Ethical Hacking Techniques**
 
 #### 💻 Looking Forward
 My goal is to become a Cyber Security Specialist who understands technology from the ground up—someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how things are built.
@@ -41,6 +41,5 @@ My goal is to become a Cyber Security Specialist who understands technology from
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img 
-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt="Linux"
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
