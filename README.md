@@ -6,12 +6,6 @@
 
 My journey into technology it wasn't as easy like a straight path it was hard and i'm so far from reaching it, And i was inspired by the eldest brother and at first i self taught myself some basic HTML and CSS And at some point some of my knowledge was taught by my 2 brothers most of them from the Eldest. 
 
-#### 🌱 The Beginning: Self-Taught Foundations
-I started with nothing but a borrowed laptop and an insatiable curiosity. The internet became my university, and free resources my textbooks. I remember the first time I wrote "Hello World" in Python, feeling both overwhelmed and exhilarated. Those early days were filled with trial and error, broken code, and countless hours on Stack Overflow. I taught myself HTML, CSS, and JavaScript by rebuilding websites I admired, understanding structure before style, function before form.
-
-#### 🔧 Building the Backend: Discovering My Passion
-As I progressed, I found my calling in backend development. There was something magical about databases talking to servers, about creating systems that worked behind the scenes. MySQL became my playground—designing schemas, optimizing queries, and understanding how data flows. Node.js opened a new world of possibilities, showing me how JavaScript could power entire systems. I built my first full-stack application, and though it was simple, it felt like constructing a universe from scratch.
-
 #### 🌐 Network Fundamentals: Connecting the Dots
 My backend work naturally led me to networking. I needed to understand how data travels, how servers communicate, how security layers protect information. I started studying network protocols, understanding TCP/IP, HTTP/HTTPS, DNS, and firewalls. Setting up my own home lab with virtual machines, I simulated networks, configured routers (virtually), and watched packets travel. Each concept I learned—from subnetting to encryption—felt like acquiring a new superpower.
 
@@ -26,11 +20,8 @@ Today, I stand at the intersection of development and security. My backend exper
 
 Every line of code I write now considers security. Every database query considers injection prevention. Every API endpoint considers authentication and authorization.
 
-#### 🚀 Looking Forward
+#### 💻 Looking Forward
 My goal is to become a Cyber Security Specialist who understands technology from the ground up—someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how things are built.
-
-The journey continues, and every day brings new challenges to solve, new systems to understand, and new ways to make technology safer for everyone.
-
 ---
 
 ### ⚙️ Technical Skills
