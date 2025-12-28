@@ -1,7 +1,7 @@
 <h4 align="center">An inspiring Web dev and Penetration Tester specializing in backend and Database management specially MySQL</h4>
 <p>🎓through my journey i have quite an experience in Mysql, git, js, and mostly Nodejs.</p>
 
-### ⚙️ Programming Language and Tools
+### ⚙️ Retained Knowledge
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -24,6 +24,10 @@ src=https://img.shields.io/badge/Git-F05032?style=flat&-&logo=git&logoColor=whit
      alt="Git"
      width="80"
      height="28">
-          
+<img 
+src="https://img.shields.io/badge/python-3670A0?style=for-the-badge=flat&logo=python&logoColor=ffdd54" 
+    alt="Python" 
+    width="80" 
+    height="28">
 </p>
 
