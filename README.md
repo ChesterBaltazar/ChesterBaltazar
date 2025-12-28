@@ -2,6 +2,8 @@
 
 <p align="center">🎓 Through my journey, I have gained substantial experience in MySQL, Git, JavaScript, and primarily Node.js.</p>
 
+---
+
 ### ⚙️ Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
