@@ -4,7 +4,7 @@
 
 ### 📝 My Journey: From Nothing to Cyber Security Aspirant
 
-My journey into technology iy wasn't a straight path it was hard and i'm far from reaching it and i was inspired by the eldest brother and at first i self taught myself, And atlast some of my knowledge was taugh by my brothers most of them from the Eldest. 
+My journey into technology it wasn't as easy like a straight path it was hard and i'm so far from reaching it, And i was inspired by the eldest brother and at first i self taught myself some basic HTML and CSS And at some point some of my knowledge was taught by my 2 brothers most of them from the Eldest. 
 
 #### 🌱 The Beginning: Self-Taught Foundations
 I started with nothing but a borrowed laptop and an insatiable curiosity. The internet became my university, and free resources my textbooks. I remember the first time I wrote "Hello World" in Python, feeling both overwhelmed and exhilarated. Those early days were filled with trial and error, broken code, and countless hours on Stack Overflow. I taught myself HTML, CSS, and JavaScript by rebuilding websites I admired, understanding structure before style, function before form.
