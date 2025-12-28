@@ -1,3 +1,6 @@
+
+<h1 align="center">Hi My Name is Chester Baltazar</h1>
+
 <h4 align="center">An Aspiring Cyber Security Specialist (Penetration Tester)</h4>
 
 ---
@@ -10,9 +13,6 @@
 ### 📌 My Journey: From Nothing to Cyber Security Aspirant
 
 My journey into technology it wasn't as easy like a straight path it was hard and i'm so far from reaching it, And i was inspired by the eldest brother and at first i self taught myself some basic HTML and CSS And at some point some of my knowledge was taught by my 2 brothers most of them from the Eldest. 
-
-#### 🌐 Network Fundamentals: Connecting the Dots
-My backend work naturally led me to networking. I needed to understand how data travels, how servers communicate, how security layers protect information. I started studying network protocols, understanding TCP/IP, HTTP/HTTPS, DNS, and firewalls. Setting up my own home lab with virtual machines, I simulated networks, configured routers (virtually), and watched packets travel. Each concept I learned—from subnetting to encryption—felt like acquiring a new superpower.
 
 #### 🎯 Current Focus & Future Vision
 Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
