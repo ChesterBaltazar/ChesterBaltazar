@@ -15,11 +15,9 @@ As I progressed, I found my calling in backend development. There was something 
 #### 🌐 Network Fundamentals: Connecting the Dots
 My backend work naturally led me to networking. I needed to understand how data travels, how servers communicate, how security layers protect information. I started studying network protocols, understanding TCP/IP, HTTP/HTTPS, DNS, and firewalls. Setting up my own home lab with virtual machines, I simulated networks, configured routers (virtually), and watched packets travel. Each concept I learned—from subnetting to encryption—felt like acquiring a new superpower.
 
-#### 🛡️ The Turning Point: Discovering Cyber Security
-The more I built, the more I wondered: "How could this be broken?" That question changed everything. I discovered penetration testing and realized that understanding how to build systems was only half the battle; understanding how to protect them was equally important. I began studying security fundamentals: encryption algorithms, authentication mechanisms, common vulnerabilities (OWASP Top 10), and defensive strategies.
-
-#### **🎯 Current Focus & Future Vision
+#### 🎯 Current Focus & Future Vision
 Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
+
 - Penetration Testing Methodologies
 - Vulnerability Assessment
 - Security Auditing
