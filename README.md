@@ -1,4 +1,4 @@
-<h4 align="center">An inspiring Web Developer and Penetration Tester specializing in backend development and database management with MySQL</h4>
+<h4 align="center">An inspiring Programmer and Cyber Security Specialist (Penetration Tester) </h4>
 
 <p align="center">🎓 Through my journey, I have gained substantial experience in MySQL, Git, JavaScript, and primarily Node.js.</p>
 
@@ -14,5 +14,5 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </p>
