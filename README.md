@@ -6,7 +6,7 @@
 
 ### 👤 My Socials
 
-*(Add your social links here - LinkedIn, Twitter, etc.)*
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> 
 
 ---
 
