@@ -2,7 +2,12 @@
 
 ---
 
-### 📝 My Journey: From Nothing to Cyber Security Aspirant
+### 👤 My Socials: 
+
+
+---
+
+### 📌 My Journey: From Nothing to Cyber Security Aspirant
 
 My journey into technology it wasn't as easy like a straight path it was hard and i'm so far from reaching it, And i was inspired by the eldest brother and at first i self taught myself some basic HTML and CSS And at some point some of my knowledge was taught by my 2 brothers most of them from the Eldest. 
 
