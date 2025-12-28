@@ -22,6 +22,7 @@ Every line of code I write now considers security. Every database query consider
 
 #### 💻 Looking Forward
 My goal is to become a Cyber Security Specialist who understands technology from the ground up—someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how things are built.
+
 ---
 
 ### ⚙️ Technical Skills
