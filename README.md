@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" 
      width="110" 
      height="28"><img 
-src=https://img.shields.io/badge/Git-F05032?style=flat&-&logo=git&logoColor=white
+src=https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
      alt="Git"
      width="80"
      height="28"><img 
