@@ -1,6 +1,9 @@
 <h4 align="center">An inspiring Programmer and Cyber Security Specialist (Penetration Tester) </h4>
 
 <p align="center">🎓 Through my journey, I have gained substantial experience in MySQL, Git, JavaScript, and primarily Node.js.</p>
+---
+### 📝 Journey
+
 
 ---
 
