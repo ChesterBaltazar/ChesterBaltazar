@@ -1,4 +1,4 @@
-<h4 align="center">An inspiring Programmer and Cyber Security Specialist (Penetration Tester)</h4>
+<h4 align="center">An Aspiring Cyber Security Specialist (Penetration Tester)</h4>
 
 ---
 
