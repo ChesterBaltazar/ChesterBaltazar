@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<a href="[![YouTube](https://img.shields.io/badge/YouTube-Chester.005-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chester.005)"
+</a>
 ---
 
 ### 📌 My Journey: From Nothing to Cyber Security Aspirant
