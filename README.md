@@ -18,7 +18,7 @@
 
 ### 📌 My Journey: From Nothing to Cyber Security Aspirant
 
-My journey into technology wasn't easy—it wasn't a straight path, and I'm still far from reaching my ultimate goals. I was inspired by my eldest brother and started by teaching myself basic HTML and CSS. Most of my foundational knowledge was taught by my two brothers, with my eldest brother being my primary mentor.
+My journey into technology wasn't easy it wasn't a straight path, and I'm still far from reaching my ultimate goals. I was inspired by my eldest brother and started by teaching myself basic Foundation of Networking and Security. Most of my foundational knowledge was taught by myself. My knowledge about Networking and Security is Beginner Level and in a few years i will be in intermidiate because of consistency. 
 
 #### 🎯 Current Focus & Future Vision
 Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
@@ -28,6 +28,8 @@ Today, I stand at the intersection of development and security. My backend exper
 - **Security Auditing**
 - **Incident Response**
 - **Ethical Hacking Techniques**
+- **Communication**
+- **AI Azure**
 
 #### 💻 Looking Forward
 My goal is to become a Cyber Security Specialist who understands technology from the ground up—someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how things are built.
