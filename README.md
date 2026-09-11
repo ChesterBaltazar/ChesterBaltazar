@@ -47,5 +47,6 @@ My goal is to become a Cyber Security Specialist who understands technology from
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React JS">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=white" alt="Nmap">
+  <img src="[https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=white](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=white&x=1)" alt="Nmap">
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=white" alt="PicoCTF">
 </p>
