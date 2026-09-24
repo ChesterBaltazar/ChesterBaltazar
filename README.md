@@ -67,5 +67,5 @@ My goal is to become a Cyber Security Specialist who understands technology from
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
   <img src="https://shields.io/badge/MicrosoftEntra-4A90E2?style=for-the-badge&logo=MicrosoftEntra&logoColor=white" alt="Microsoft Entra">
-  <img src="[![Microsoft Defender](https://shields.io)](https://microsoft.com)">
+  <img src="https://shields.io/badge/MicrosoftDefender-4190E2?style=for-the-badge&logo=MicrosoftDefender&logoColor=white" alt="MicrosoftDefender">
 </p>
