@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)" alt="tryHackMe">
 </a>
 
+<a href="https://learn.cylabacademy.org/account">
+    <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
+</a>
 ### My Journey: From Nothing to Cyber Security Aspirant
 
 My journey into technology wasn't easy it wasn't a straight path, and I'm still far from reaching my ultimate goals. I was inspired by my eldest brother and started by teaching myself basic Foundation of Networking and Security. Most of my foundational knowledge was taught by myself. My knowledge about Networking and Security is Beginner Level and in a few years i will be in intermidiate because of consistency. 
@@ -42,7 +45,6 @@ My goal is to become a Cyber Security Specialist who understands technology from
 ### Tools
 <p align="center">
     <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
-  <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
   <img src="https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/parrot_security-f5f5f5?style=for-the-badge&logo=parrotsecurity&logoColor=#15E0ED" alt="Parrot OS">
