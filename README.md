@@ -2,8 +2,6 @@
 
 <h4 align="center">An Aspiring Cyber Security Specialist (Penetration Tester)</h4>
 
----
-
 ### My Socials
 
 <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
@@ -21,8 +19,6 @@
 <a href="https://tryhackme.com/p/MrBotPH">
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)" alt="tryHackMe">
 </a>
-
----
 
 ### My Journey: From Nothing to Cyber Security Aspirant
 
@@ -42,8 +38,6 @@ Today, I stand at the intersection of development and security. My backend exper
 
 #### 💻 Looking Forward
 My goal is to become a Cyber Security Specialist who understands technology from the ground up—someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how things are built.
-
----
 
 ### Tools
 <p align="center">
