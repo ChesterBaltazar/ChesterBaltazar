@@ -23,6 +23,7 @@
 <a href="https://learn.cylabacademy.org/account">
     <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
 </a>
+
 ### My Journey: From Nothing to Cyber Security Aspirant
 
 My journey into technology wasn't easy it wasn't a straight path, and I'm still far from reaching my ultimate goals. I was inspired by my eldest brother and started by teaching myself basic Foundation of Networking and Security. Most of my foundational knowledge was taught by myself. My knowledge about Networking and Security is Beginner Level and in a few years i will be in intermidiate because of consistency. 
