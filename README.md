@@ -32,12 +32,12 @@ My journey into technology wasn't easy it wasn't a straight path, and I'm still 
 Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
 
 - **Penetration Testing Methodologies**
-- **Vulnerability Assessment**
-- **Security Auditing**
+- **Cisco Packet Tracer**
+- **Vulnerability Analysis**
+- **Open Source Intelligence**
 - **Incident Response**
-- **Ethical Hacking Techniques**
 - **Communication**
-- **AI Azure**
+- **Linux**
 
 #### 💻 Looking Forward
 My goal is to become a Cyber Security Specialist who understands technology from the ground up—someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how things are built.
