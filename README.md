@@ -47,7 +47,7 @@ My goal is to become a Cyber Security Specialist who understands technology from
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/parrot_security-%23000000.svg?style=for-the-badge&logo=parrotsecurity&logoColor=#15E0ED" alt="Parrot OS">
 </p>
-  
+
 ### Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -73,4 +73,5 @@ My goal is to become a Cyber Security Specialist who understands technology from
   <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGIX">
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="NEOVIM">
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM">
 </p>
