@@ -4,7 +4,7 @@
 
 ---
 
-### 👤 My Socials
+### My Socials
 
 <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -24,11 +24,11 @@
 
 ---
 
-### 📌 My Journey: From Nothing to Cyber Security Aspirant
+### My Journey: From Nothing to Cyber Security Aspirant
 
 My journey into technology wasn't easy it wasn't a straight path, and I'm still far from reaching my ultimate goals. I was inspired by my eldest brother and started by teaching myself basic Foundation of Networking and Security. Most of my foundational knowledge was taught by myself. My knowledge about Networking and Security is Beginner Level and in a few years i will be in intermidiate because of consistency. 
 
-#### 🎯 Current Focus & Future Vision
+#### Current Focus & Future Vision
 Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
 
 - **Penetration Testing Methodologies**
@@ -45,7 +45,7 @@ My goal is to become a Cyber Security Specialist who understands technology from
 
 ---
 
-### 🔧 Tools
+### Tools
 <p align="center">
     <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
   <img src="https://img.shields.io/badge/PicoCTF-4B0082?style=for-the-badge&logoColor=white" alt="PicoCTF">
@@ -54,7 +54,7 @@ My goal is to become a Cyber Security Specialist who understands technology from
   <img src="https://img.shields.io/badge/parrot_security-%23000000.svg?style=for-the-badge&logo=parrotsecurity&logoColor=#15E0ED" alt="Parrot OS">
 </p>
   
-### ⚙️ Technical Skills
+### Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
