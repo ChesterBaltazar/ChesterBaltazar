@@ -14,13 +14,14 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white(https://www.youtube.com/@Chester.005)"
 </a>
 
-<a href="">
+<a href="https://profile.hackthebox.com/">
   <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
 </a>
 
-<a href="">
+<a href="https://tryhackme.com/p/MrBotPH">
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)" alt="tryHackMe">
 </a>
+
 ---
 
 ### 📌 My Journey: From Nothing to Cyber Security Aspirant
