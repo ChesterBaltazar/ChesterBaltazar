@@ -42,7 +42,7 @@ My goal is to become a Cyber Security Specialist who understands technology from
 ### Tools
 <p align="center">
     <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
-  <img src="https://img.shields.io/badge/PicoCTF-4B0082?style=for-the-badge&logoColor=white" alt="PicoCTF">
+  <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
   <img src="https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/parrot_security-%23000000.svg?style=for-the-badge&logo=parrotsecurity&logoColor=#15E0ED" alt="Parrot OS">
