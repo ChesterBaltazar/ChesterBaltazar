@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Chester Baltazar</h1>
 
-<h4 align="center">An Aspiring Cyber Security Specialist (Penetration Tester)</h4>
+<h4 align="center">An Aspiring Cyber Security Specialist</h4>
 
 ### My Socials
 
@@ -26,7 +26,7 @@
 
 ### My Journey: From Nothing to Cyber Security Aspirant
 
-My journey into technology wasn't easy it wasn't a straight path, and I'm still far from reaching my ultimate goals. I was inspired by my eldest brother and started by teaching myself basic Foundation of Networking and Security. Most of my foundational knowledge was taught by myself. My knowledge about Networking and Security is Beginner Level and in a few years i will be in intermidiate because of consistency. 
+My journey into technology wasn't easy it wasn't a straight path and I'm still far from reaching my goal. And I was inspired by Network Chuck and also David Bombal and started by teaching myself basic Foundation of Networking and Security. Most of my foundational knowledge was taught by myself My knowledge about Networking and Security is Beginner Level and in a few years i will be in intermidiate level because of consistency. 
 
 #### Current Focus & Future Vision
 Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
@@ -34,14 +34,15 @@ Today, I stand at the intersection of development and security. My backend exper
 - **Penetration Testing Methodologies**
 - **Cisco Packet Tracer**
 - **Vulnerability Analysis**
-- **Open Source Intelligence**
-- **Incident Response**
+- **Open Source Intelligence[Maltego, Spiderfoot, The Harvester, and Recon-ng]**
+- **Incident Response and Mitigation**
 - **Communication**
-- **Linux**
+- **Linux and Unix**
 - **Hardware and Software Troubleshooting**
 
-#### 💻 Looking Forward
-My goal is to become a Cyber Security Specialist who understands technology from the ground up—someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how things are built.
+
+#### Looking Forward
+My goal is to become a Cyber Security Specialist [SOC L1 or Pentester] who understands technology from the ground up someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how attackers attack Vulnerabilites.
 
 ### Tools
 <p align="center">
