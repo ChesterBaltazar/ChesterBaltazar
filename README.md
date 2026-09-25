@@ -46,8 +46,10 @@ Today, I stand at the intersection of development and security. My backend exper
 My goal is to become a Cyber Security Specialist [SOC L1 or Pentester] who understands technology from the ground up someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how attackers attack Vulnerabilites.
 
 ### Browsers
+<p align="center">
    <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
-
+</p>
+  
 ### Tools
 <p align="center">
     <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
