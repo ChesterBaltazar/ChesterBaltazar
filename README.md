@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Chester Baltazar</h1>
-
 <h4 align="center">An Aspiring Cyber Security Specialist</h4>
 
 ### My Socials
@@ -27,14 +26,10 @@
 </p>
 
 ### My Journey: From Nothing to Cyber Security Aspirant
-<p align="center">
 My journey into technology wasn't easy it wasn't a straight path and I'm still far from reaching my goal. And I was inspired by Network Chuck and also David Bombal and started by teaching myself basic Foundation of Networking and Security. Most of my foundational knowledge was taught by myself My knowledge about Networking and Security is Beginner Level and in a few years i will be in intermidiate level because of consistency. 
-</p>
 
 #### Current Focus & Future Vision
-<p align="center">
 Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
-</p>
 
 - **Penetration Testing Methodologies**
 - **Cisco Packet Tracer**
@@ -47,9 +42,7 @@ Today, I stand at the intersection of development and security. My backend exper
 - **BurpSuite**
 
 #### Looking Forward
-<p align="center">
 My goal is to become a Cyber Security Specialist [SOC L1 or Pentester] who understands technology from the ground up someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how attackers attack vulnerabilites.
-</p>
 
 ### Browsers
 <p align="center">
