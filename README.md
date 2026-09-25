@@ -39,6 +39,7 @@ Today, I stand at the intersection of development and security. My backend exper
 - **Communication**
 - **Linux and Unix**
 - **Hardware and Software Troubleshooting**
+- **BurpSuite**
 
 
 #### Looking Forward
