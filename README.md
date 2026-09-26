@@ -25,27 +25,11 @@
   
 </p>
 
-### My Journey: From Nothing to Cyber Security Aspirant
-My journey into technology wasn't easy it wasn't a straight path and I'm still far from reaching my goal. And I was inspired by Network Chuck and also David Bombal and started by teaching myself basic Foundation of Networking and Security. Most of my foundational knowledge was taught by myself My knowledge about Networking and Security is Beginner Level and in a few years i will be in intermidiate level because of consistency. 
+### About Me
+I am a security enthusiast with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles and write-ups, watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio.
 
-#### Current Focus & Future Vision
-Today, I stand at the intersection of development and security. My backend experience gives me unique insight into how systems work—and therefore, how they might fail. I'm actively studying:
-
-- **Penetration Testing Methodologies**
-- **Cisco Packet Tracer**
-- **Vulnerability Analysis**
-- **Open Source Intelligence[Maltego, Spiderfoot, The Harvester, and Recon-ng]**
-- **Incident Response and Mitigation**
-- **Communication**
-- **Linux and Unix**
-- **Hardware and Software Troubleshooting**
-- **BurpSuite**
-  <a href="https://attack.mitre.org/techniques/T1530/">
-  <p> - MITRE ATT&CK</p>
-  </a>
-
-#### Looking Forward
-My goal is to become a Cyber Security Specialist [SOC L1 or Pentester] who understands technology from the ground up someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how attackers attack vulnerabilites.
+#### Programming/Scripting Languages, Frameworks, Tools, and Technologies
+These are the tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. I am always looking to explore new concepts that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
 
 ### Retained Knowledge
 <p align="center">
