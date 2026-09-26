@@ -50,7 +50,7 @@ My goal is to become a Cyber Security Specialist [SOC L1 or Pentester] who under
    <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
 </p>
 
-### Open Sources
+### Community 
 <p align="center">
   <img src="https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </p>
