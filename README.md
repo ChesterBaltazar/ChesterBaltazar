@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chester Baltazar</h1>
-<h4 align="center">An Aspiring Cyber Security Specialist</h4>
+<h4 align="center">Cyber Security Specialist Enthusiast</h4>
 
 ### My Socials
 <p align="center">
