@@ -26,7 +26,7 @@
 </p>
 
 ### About Me
-I am a security enthusiast with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles and write-ups, watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio.
+I am a security enthusiast with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles and write-ups watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio.
 
 ### Programming/Scripting Languages, Frameworks, Tools, and Technologies
 These are the tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. I am always looking to explore new concepts that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
