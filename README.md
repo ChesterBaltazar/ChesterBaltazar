@@ -40,8 +40,8 @@ Today, I stand at the intersection of development and security. My backend exper
 - **Linux and Unix**
 - **Hardware and Software Troubleshooting**
 - **BurpSuite**
-  <a src="https://attack.mitre.org/techniques/T1530/">
-     <p>Mitre Att&k</p> 
+  <a href="https://attack.mitre.org/techniques/T1530/">
+  <p>MITRE ATT&CK</p>
   </a>
 
 #### Looking Forward
