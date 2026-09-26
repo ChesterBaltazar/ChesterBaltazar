@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Chester Baltazar</h1>
-<p align="center"><sub>also known as ChEsTeR005</sub></p>
+<h1>Hi, I'm Chester Baltazar</h1>
+<p><sub>also known as ChEsTeR005</sub></p>
 
 <h4 align="center">Cyber Security Specialist Enthusiast</h4>
 
