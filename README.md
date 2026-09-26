@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Chester Baltazar</h1>
+<h1 align="center">Hi, I'm Chester Baltazar 
 <p align="center">also known as ChEsTeR005</p>
+</h1>
 <h4 align="center">Cyber Security Specialist Enthusiast</h4>
 
 ### My Socials
