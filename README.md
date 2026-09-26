@@ -40,6 +40,7 @@ Today, I stand at the intersection of development and security. My backend exper
 - **Linux and Unix**
 - **Hardware and Software Troubleshooting**
 - **BurpSuite**
+- **Mitre Att&k**
 
 #### Looking Forward
 My goal is to become a Cyber Security Specialist [SOC L1 or Pentester] who understands technology from the ground up someone who can not only identify vulnerabilities but also understand their root causes in architecture and code. I believe the best defenders are those who understand how attackers attack vulnerabilites.
