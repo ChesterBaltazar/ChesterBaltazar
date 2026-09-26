@@ -1,5 +1,9 @@
 <h3 align="center">Hi I'm Chester Baltazar<p>also known as ChEsTeR005</p></h3>
 
+<p align="center">
+  <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
+  <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
+</p>
 
 <h4 align="center">Cyber Security Specialist Enthusiast</h4>
 
@@ -8,26 +12,22 @@
   <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
   <a href="https://www.youtube.com/@Chester.005" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-
   <a href="https://profile.hackthebox.com/" target="_blank">
     <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
   </a>
-
   <a href="https://tryhackme.com/p/MrBotPH" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryHackMe">
   </a>
-
   <a href="https://learn.cylabacademy.org/account" target="_blank">
     <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
   </a>
 </p>
 
 ### About Me
-I am a security enthusiast with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles, watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio <a href="#">->here</a>.
+I am a security enthusiast with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles, watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio [-> here](#).
 
 ### Programming/Scripting Languages, Frameworks, Tools, and Technologies
 These are the tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. I am always looking to explore new concepts that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
