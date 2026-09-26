@@ -5,8 +5,6 @@
   <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
 </p>
 
-<h4 align="center">Cyber Security Specialist Enthusiast</h4>
-
 ### My Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
