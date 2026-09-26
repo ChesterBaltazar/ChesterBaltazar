@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chester Baltazar</h1>
 <p><sub>also known as ChEsTeR005</sub></p>
 
-<h4 align="center">Cyber Security Specialist Enthusiast</h4>
+<h4>Cyber Security Specialist Enthusiast</h4>
 
 ### My Socials
 <p align="center">
