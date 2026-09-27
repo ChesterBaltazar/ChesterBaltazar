@@ -60,6 +60,6 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"alt="Docker">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
   <img src="https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/parrot_security-f5f5f5?style=for-the-badge&logo=parrotsecurity&logoColor=%2315E0ED" alt="Parrot OS">
+  <img src="https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
 </p>
