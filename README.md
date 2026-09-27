@@ -1,12 +1,12 @@
-# Hi I'm Chester Baltazar
-### also known as ChEsTeR005
+Hi I'm Chester Baltazar
+also known as ChEsTeR005
 
 <p align="center">
   <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
   <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
 </p>
 
-## My Socials
+My Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
