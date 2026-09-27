@@ -67,4 +67,5 @@ These are the tools, frameworks, techniques and technologies I have used in my c
 <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox>
 <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone" alt="">
 <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/tmux-white?style=for-the-badge&logo=tmux" alt="tmux">
 </p>
