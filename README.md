@@ -68,6 +68,7 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor">
   <img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GNOME%20terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="GNOME Ternimal">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
   <img src="https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
   <img src="https://img.shields.io/badge/parrot_security-f5f5f5?style=for-the-badge&logo=parrotsecurity&logoColor=%2315E0ED" alt="Parrot OS">
