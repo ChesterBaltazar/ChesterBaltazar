@@ -22,6 +22,7 @@
   <a href="https://learn.cylabacademy.org/account" target="_blank">
     <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
   </a>
+    <img src="https://img.shields.io/badge/Hackerone-black?style=for-the-badge&logo=hackerone">
 </p>
 
 ### About Me
@@ -65,6 +66,5 @@ These are the tools, frameworks, techniques and technologies I have used in my c
 <img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy" alt="Omarchy">
 <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox>
 <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone" alt="">
-<img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
 <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
