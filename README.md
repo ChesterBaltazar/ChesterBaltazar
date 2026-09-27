@@ -7,8 +7,7 @@
 
 ### My Socials
 <p align="center">
-  <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchester-jeffrey-baltazar-692b98268" alt="LinkedIn">
   </a>
   <a href="https://www.youtube.com/@Chester.005" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
