@@ -27,6 +27,7 @@ My Socials
   <a href="https://www.hackerone.com/" target="_blank">
     <img src="https://img.shields.io/badge/Hackerone-black?style=for-the-badge&logo=hackerone" alt="HackerOne">
   </a>
+  <img src="https://img.shields.io/badge/Portswigger-white?style=for-the-badge&logo=portswigger" alt="Portwigger">
 </p>
 
 ## About Me
@@ -74,4 +75,6 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/parrot_security-f5f5f5?style=for-the-badge&logo=parrotsecurity&logoColor=%2315E0ED" alt="Parrot OS">
   <img src="https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Linksys-black?style=for-the-badge&logo=linksys&logoColor=white" alt="Linksys">
+  <img src="https://img.shields.io/badge/Proton%20VPN-gray?style=for-the-badge&logo=protonvpn&logoColor=%2366DEB1" alt="Proton VPN">
 </p>
