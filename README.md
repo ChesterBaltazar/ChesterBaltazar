@@ -38,6 +38,11 @@
   
 </p>
 
+### Operating System
+<p align="center">
+<img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy&logoColor=%239ECE6A" alt="Omarchy">
+</p>
+
 ### About Me
 I am a security enthusiast with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles, watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio [-> here](https://seemycareerportfolionow.netlify.app).
 
