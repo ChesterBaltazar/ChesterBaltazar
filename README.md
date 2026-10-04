@@ -1,4 +1,10 @@
-### Hi I'm Chester Baltazar also known as ChEsTeR005
+<p>
+  <b>
+  <img src="https://komarev.com/ghpvc/?username=ChesterBaltazar&label=Profile%20views&color=9ECE6A&style=flat" alt="Profile views" />
+  </b>
+</p>
+
+### Hi I'm ChesterBaltazar a.k.a ChEsTeR005
 
 <p align="center">
   <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
@@ -28,17 +34,13 @@
     <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
   </a>
   
-  <a href="https://hackerone.com/rocketphfloodcontrol" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerone-black?style=for-the-badge&logo=hackerone" alt="HackerOne">
-  </a>
-  
   <a href="" target="blank">
   <img src="https://img.shields.io/badge/Portswigger-white?style=for-the-badge&logo=portswigger" alt="Portwigger">
   </a>
   
 </p>
 
-### Operating System
+### Operating Systems (currently using windows)
 <p align="center">
 <img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy&logoColor=%239ECE6A" alt="Omarchy">
 </p>
@@ -81,6 +83,7 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor">
   <img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/tailscale-black?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
   <img src="https://img.shields.io/badge/GNOME%20terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="GNOME Ternimal">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
   <img src="https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
@@ -89,6 +92,7 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Linksys-black?style=for-the-badge&logo=linksys&logoColor=white" alt="Linksys">
   <img src="https://img.shields.io/badge/Proton%20VPN-gray?style=for-the-badge&logo=protonvpn&logoColor=%2366DEB1" alt="Proton VPN">
-  <img src="https://img.shields.io/badge/Splunk-orange?style=for-the-badge&logo=splunk&logoColor=black" alt="Spunk">
+  <img src="https://img.shields.io/badge/Splunk-orange?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
   <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socketdotio&logoColor=black" alt="Socket.io">
+  <img src="https://img.shields.io/badge/ifixit-blue?style=for-the-badge&logo=ifixit&logoColor=white" alt="ifixit">
 </p>
