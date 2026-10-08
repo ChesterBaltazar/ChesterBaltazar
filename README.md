@@ -91,61 +91,59 @@ I am a security enthusiast with a passion and drive for exploring systems, findi
   <tr>
     <th>Name of the Project</th>
     <th>What it Does</th>
+    <th>Year</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td><a href="">WinMap</a></td>
+    <td>Scans</td>
     <td></td>
   </tr>
 </table>
 
-### Web Security
+### Web Security & Vulnerability Scanner
 <table border="1">
   <tr>
     <th>Name of the Project</th>
     <th>What it Does</th>
+    <th>Year</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
+    <td><a href="">Web Security Vulnerability Scanner</a></td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
-### Vulnerability Scanner
+### Networking & Homelab
 <table border="1">
   <tr>
     <th>Name of the Project</th>
     <th>What it Does</th>
+    <th>Year</th>
   </tr>
   <tr>
+    <td><a href="">Peer-to-Peer File Sharing Connectivity</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
+    <td><a href="">Campus Computer Laboratory Network Setup</a></td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
-### Programming/Scripting Languages, Frameworks, Tools, and Technologies
+## Programming/Scripting Languages, Frameworks, Tools, and Technologies
 
 These are the tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. I am always looking to explore new concepts that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
 
-### My Github Status
+## My Github Status
 <p align="center">
   <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
   <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
 </p>
 
-### Retained Knowledge
-
+## Retained Knowledge
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
