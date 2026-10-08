@@ -12,66 +12,24 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
 ### My Socials & Learning Sources
 
 <p align="center">
-  <table border="1">
-  <tr>
-    <th>Social</th>
-    <th>what i learned</th>
-    <th>types</th>
-  </tr>
-  <tr>
-    <td>
     <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    </td>
-    <td> 
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> <a href="https://www.youtube.com/@Chester.005" target="_blank">
+    <a href="https://www.youtube.com/@Chester.005" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-      <td> <a href="https://profile.hackthebox.com/" target="_blank">
+    <a href="https://profile.hackthebox.com/" target="_blank">
       <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
       </a>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://tryhackme.com/p/MrBotPH" target="_blank">
           <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
         </a>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://learn.cylabacademy.org/account" target="_blank">
           <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
         </a>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
         <a href="" target="blank">
            <img src="https://img.shields.io/badge/Portswigger-white?style=for-the-badge&logo=portswigger" alt="Portwigger">
         </a>  
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-</table>
 </p>
 
 ### Operating Systems (currently using windows)
@@ -86,14 +44,15 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
       <img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy&logoColor=%239ECE6A" alt="Omarchy">
     </p>
 </td>
-  <td>Omarchy is a pre-configured, opinionated Arch Linux setup paired with the Hyprland tiling window manager [source->](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/).</td>
+  <td>
+
+Omarchy is a pre-configured, opinionated Arch Linux setup paired with the Hyprland tiling window manager. ([Source](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/))  </td>
 </tr>
 </table>
 
 ## Projects
 
-### Wifi & Security
-
+### Wifi Maper & Network Vulnerability and Security Scanner
 <table border="1">
   <tr>
     <th>Name of the Project</th>
@@ -105,28 +64,10 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
     <td>Scans</td>
     <td></td>
   </tr>
-</table>
-
-### Web Security & Vulnerability Scanner
-<table border="1">
-  <tr>
-    <th>Name of the Project</th>
-    <th>What it Does</th>
-    <th>Year</th>
-  </tr>
   <tr>
     <td><a href="">Web Security Vulnerability Scanner</a></td>
     <td></td>
     <td></td>
-  </tr>
-</table>
-
-### Networking & Homelab
-<table border="1">
-  <tr>
-    <th>Name of the Project</th>
-    <th>What it Does</th>
-    <th>Year</th>
   </tr>
   <tr>
     <td><a href="">Peer-to-Peer File Sharing Connectivity</a></td>
