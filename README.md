@@ -7,7 +7,7 @@
 <h1 align="center">Hi I'm ChesterBaltazar a.k.a ChEsTeR005</h1>
 
 ### Summary
-I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles, watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio [-> here](https://seemycareerportfolionow.netlify.app).
+I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy participating in CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio[-> here](https://seemycareerportfolionow.netlify.app).
 
 ### My Socials & Learning Sources
 
