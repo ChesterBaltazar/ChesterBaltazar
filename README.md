@@ -7,15 +7,16 @@
 <h1 align="center">Hi I'm ChesterBaltazar a.k.a ChEsTeR005</h1>
 
 ### Summary
-I am a security enthusiast with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles, watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio [-> here](https://seemycareerportfolionow.netlify.app).
+I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities and understanding how things break so I can help make them stronger. I enjoy participating in CTFs, reading security articles, watching walkthroughs and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio [-> here](https://seemycareerportfolionow.netlify.app).
 
-### My Socials
+### My Socials & Learning Sources
 
 <p align="center">
   <table border="1">
   <tr>
     <th>Social</th>
-    <th>Link</th>
+    <th>what i learned</th>
+    <th>types</th>
   </tr>
   <tr>
     <td>
@@ -25,6 +26,7 @@ I am a security enthusiast with a passion and drive for exploring systems, findi
     </td>
     <td> 
     </td>
+    <td></td>
   </tr>
   <tr>
     <td> <a href="https://www.youtube.com/@Chester.005" target="_blank">
@@ -32,12 +34,14 @@ I am a security enthusiast with a passion and drive for exploring systems, findi
     </a>
     </td>
     <td></td>
+    <td></td>
   </tr>
     <tr>
       <td> <a href="https://profile.hackthebox.com/" target="_blank">
       <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
       </a>
       </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -47,6 +51,7 @@ I am a security enthusiast with a passion and drive for exploring systems, findi
         </a>
       </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>
@@ -55,6 +60,7 @@ I am a security enthusiast with a passion and drive for exploring systems, findi
         </a>
       </td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>
@@ -62,6 +68,7 @@ I am a security enthusiast with a passion and drive for exploring systems, findi
            <img src="https://img.shields.io/badge/Portswigger-white?style=for-the-badge&logo=portswigger" alt="Portwigger">
         </a>  
       </td>
+      <td></td>
       <td></td>
     </tr>
 </table>
@@ -133,15 +140,15 @@ I am a security enthusiast with a passion and drive for exploring systems, findi
   </tr>
 </table>
 
-## Programming/Scripting Languages, Frameworks, Tools, and Technologies
-
-These are the tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. I am always looking to explore new concepts that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
-
 ## My Github Status
 <p align="center">
   <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
   <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
 </p>
+
+## Programming/Scripting Languages, Frameworks, Tools, and Technologies
+
+These are the tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. I am always looking to explore new concepts that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
 
 ## Retained Knowledge
 <p align="center">
