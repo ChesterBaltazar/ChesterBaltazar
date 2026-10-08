@@ -78,7 +78,7 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
 <table>
 <tr>
   <td>Linux Distro</td>
-  <td>What it Does</td>
+  <td>What is it</td>
 </tr>
 <tr>
   <td>
@@ -86,7 +86,7 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
       <img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy&logoColor=%239ECE6A" alt="Omarchy">
     </p>
 </td>
-  <td></td>
+  <td>Omarchy is a pre-configured, opinionated Arch Linux setup paired with the Hyprland tiling window manager.</td>
 </tr>
 </table>
 
