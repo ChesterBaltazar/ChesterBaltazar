@@ -139,4 +139,6 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/ifixit-blue?style=for-the-badge&logo=ifixit&logoColor=white" alt="ifixit">
   <img src="https://img.shields.io/badge/pfSense-white?style=for-the-badge&logo=pfsense&logoColor=%23212121" alt="pfSense">
   <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare">
+  <img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-black?style=for-the-badge&logo=haveibeenpwned&logoColor=white" alt="HaveIBeenPwned">
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="Virus Total">
 </p>
