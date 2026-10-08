@@ -99,16 +99,19 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/tmux-white?style=for-the-badge&logo=tmux" alt="tmux">
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React JS">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Metasploit-0067C5?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burpsuite">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -129,8 +132,11 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Linksys-black?style=for-the-badge&logo=linksys&logoColor=white" alt="Linksys">
+  <img src="https://img.shields.io/badge/tplink-blue?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
   <img src="https://img.shields.io/badge/Proton%20VPN-gray?style=for-the-badge&logo=protonvpn&logoColor=%2366DEB1" alt="Proton VPN">
   <img src="https://img.shields.io/badge/Splunk-orange?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
   <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socketdotio&logoColor=black" alt="Socket.io">
   <img src="https://img.shields.io/badge/ifixit-blue?style=for-the-badge&logo=ifixit&logoColor=white" alt="ifixit">
+  <img src="https://img.shields.io/badge/pfSense-white?style=for-the-badge&logo=pfsense&logoColor=%23212121" alt="pfSense">
+  <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare">
 </p>
