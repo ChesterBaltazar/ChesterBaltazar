@@ -4,13 +4,7 @@
   </b>
 </p>
 
-<h1 align="center">Hi I'm ChesterBaltazar a.k.a ChEsTeR005</h1>
-
-### Summary
-I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy participating in CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio[-> here](https://seemycareerportfolionow.netlify.app).
-
-### My Socials & Learning Sources
-
+<p align="center">Hi I'm ChesterBaltazar a.k.a ChEsTeR005</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -32,68 +26,37 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
         </a>  
 </p>
 
-### Operating Systems (currently using windows)
+## Summary
+I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy participating in CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio[-> here](https://seemycareerportfolionow.netlify.app).
+
+## ⏰ At a Glance 
 <table>
-<tr>
-  <td>Linux Distro</td>
-  <td>What is it</td>
-</tr>
-<tr>
-  <td>
-    <p align="center">
+  <tr>
+    <td>📝Summary</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>💻Desktop</td>
+    <td><p align="center">
       <img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy&logoColor=%239ECE6A" alt="Omarchy">
-    </p>
-</td>
-  <td>
-
-Omarchy is a pre-configured, opinionated Arch Linux setup paired with the Hyprland tiling window manager. ([Source](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/))  </td>
-</tr>
-</table>
-
-## Projects
-
-### Wifi Maper & Network Vulnerability and Security Scanner
-<table border="1">
-  <tr>
-    <th>Name of the Project</th>
-    <th>What it Does</th>
-    <th>Year</th>
+    </p>Omarchy as a daily drive, Kali linux for practicing my skills on cyber security and trying more distros in the future.</td>
   </tr>
   <tr>
-    <td><a href="">WinMap</a></td>
-    <td>Scans</td>
+    <td>🏗️ Homelab Projects & Cyber Security Projects</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="">Web Security Vulnerability Scanner</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="">Peer-to-Peer File Sharing Connectivity</a></td>
-    <td></td>
+    <td>📈Github Status</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="">Campus Computer Laboratory Network Setup</a></td>
-    <td></td>
+    <td>⚙ Programming / Scripting Languages, Frameworks, Tools, and Technologies</td>
     <td></td>
   </tr>
-</table>
-
-## My Github Status
-<p align="center">
-  <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
-  <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
-</p>
-
-## Programming/Scripting Languages, Frameworks, Tools, and Technologies
-
-These are the tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. I am always looking to explore new concepts that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
-
-## Retained Knowledge
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <tr>
+    <td>💡 Retained Knowledge</td>
+    <td>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -141,4 +104,74 @@ These are the tools, frameworks, techniques and technologies I have used in my c
   <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare">
   <img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-black?style=for-the-badge&logo=haveibeenpwned&logoColor=white" alt="HaveIBeenPwned">
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="Virus Total">
+    </td>
+  </tr>
+</table>
+
+## Cyber Security Projects 
+
+### Wifi Maper & Network Vulnerability and Security Scanner
+<table border="1">
+  <tr>
+    <th>Name of the Project</th>
+    <th>What it Does</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td><a href="">WinMap</a></td>
+    <td>Scans</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="">Web Security Vulnerability Scanner</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="">Peer-to-Peer File Sharing Connectivity</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="">Campus Computer Laboratory Network Setup</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+## Programming/Scripting Languages, Frameworks, Tools, and Technologies
+These tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. have always been a great help for &amp; i looking forward to explore new concepts &amp; technologies that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
+
+## Homelab Stacks
+  <table>
+    <tr>
+      <td>
+        ⚙ Virtual Machines 
+      </td>
+      <td>
+        I have experienced with Metasploitable, Kali Linux, Parrot Security OS; I am now learning how to use pfSense for future purposes and Security of the Computer And Networks 
+      </td>
+      <td>&amp; Kali Linux, ParrotOS, Metasploitable, pfSense, WindowsServer 2019, Xfce, Gnome</td>
+    </tr>
+    <tr>
+      <td>🛡 Network &amp; Securities</td>
+      <td>I used ProtonVPN for both mobile and computer for data encryption and to hide my ip from cyber criminals when connecting to public wifi's</td>
+      <td>&bull; ProtonVPN, TOR, Cloudflare, VirusTotal, Have I Been Pwned</td>
+    </tr>
+    <tr>
+      <td>☁ Cloud and Storage</td>
+      <td>I used this Softwares and Tools to make my projects &amp; capstones store data and Have Backups so that if ever my system got DDos attack or the cloud got databreach i have backups</td>
+      <td>&bull; Cloudflare, Firebase, DigitalOcean, Google Drive, Proxmox, TailScale</td>
+    </tr>
+  </table>
+  
+## Github Stats
+<p align="center">
+  <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
+  <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
+</p>
+
+## Motto
+<p>
+  For Every Lock, There is Someone out There trying to Break in or Break in 
 </p>
