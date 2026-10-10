@@ -4,7 +4,8 @@
   </b>
 </p>
 
-<p align="center">Hi I'm ChesterBaltazar a.k.a ChEsTeR005</p>
+<h1 align="center"><b>Hi I'm ChesterBaltazar a.k.a ChEsTeR005</b></h1>
+<p align="center">IT student | Security Enthusiast | Python | Aspiring Pentester</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -25,15 +26,18 @@
            <img src="https://img.shields.io/badge/Portswigger-white?style=for-the-badge&logo=portswigger" alt="Portwigger">
         </a>  
 </p>
+<p>I break things, fix things, and automate everything.</p>
 
 ## Summary
-I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy participating in CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio[-> here](https://seemycareerportfolionow.netlify.app).
 
 ## ⏰ At a Glance 
 <table>
   <tr>
-    <td>📝Summary</td>
-    <td></td>
+    <td>👤 About me</td>
+    <td>
+
+I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy participating in CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio[-> here](https://seemycareerportfolionow.netlify.app).
+       </td>
   </tr>
   <tr>
     <td>💻Desktop</td>
@@ -43,18 +47,16 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
   </tr>
   <tr>
     <td>🏗️ Homelab Projects & Cyber Security Projects</td>
+    <td>
+      pfSense as the IPS + Metasploitable as the target + Kali or Parrot OS as the attacker; Details below.
+    </td>
+  </tr>
+  <tr>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>📈Github Status</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>⚙ Programming / Scripting Languages, Frameworks, Tools, and Technologies</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>💡 Retained Knowledge</td>
+    <td>💡 Retained knowledge</td>
     <td>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -106,50 +108,56 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="Virus Total">
     </td>
   </tr>
+  <tr>
+    <td>🧠 Cares about</td>
+    <td>End-to-end encryption, zero trust, owning your infrastructure, right to repair, privacy rights, threat monitoring, OSINT.</td>
+  </tr>
 </table>
 
-## Cyber Security Projects 
-
+## Open Source Projects 
 ### Wifi Maper & Network Vulnerability and Security Scanner
 <table border="1">
   <tr>
-    <th>Name of the Project</th>
+    <th>Project</th>
     <th>What it Does</th>
-    <th>Year</th>
   </tr>
   <tr>
     <td><a href="">WinMap</a></td>
-    <td>Scans</td>
     <td></td>
   </tr>
   <tr>
     <td><a href="">Web Security Vulnerability Scanner</a></td>
     <td></td>
-    <td></td>
+  </tr>
+</table>
+
+### Networking & Connectivity
+<table>
+  <tr>
+    <th>Project</th>
+    <th>What it does</th>
   </tr>
   <tr>
     <td><a href="">Peer-to-Peer File Sharing Connectivity</a></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
-    <td><a href="">Campus Computer Laboratory Network Setup</a></td>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="">Campus Computer Laboratory Network Setup</a></td>
+    <td>
+</td>
   </tr>
 </table>
 
-## Programming/Scripting Languages, Frameworks, Tools, and Technologies
-These tools, frameworks, techniques and technologies I have used in my cybersecurity projects and hands on practice. have always been a great help for &amp; i looking forward to explore new concepts &amp; technologies that I have not yet mastered and apply them in real scenarios through labs, CTFs or personal projects. I want to understand systems at all levels, from hardware and operating systems to networks and application code, because real security insight comes from knowing how things really work. As I said before, I enjoy reading from a variety of sources so that I can continue to learn and discover things that are useful and pertinent to my development in this area.
-
-## Homelab Stacks
+## 🏗 Homelab Stacks
+<p>Building, breaking, and learning in a production-grade home lab.</p>
   <table>
     <tr>
       <td>
         ⚙ Virtual Machines 
       </td>
       <td>
-        I have experienced with Metasploitable, Kali Linux, Parrot Security OS; I am now learning how to use pfSense for future purposes and Security of the Computer And Networks 
+        I have experienced with Metasploitable, Kali Linux, Parrot Security OS; I am now learning how to use pfSense for future purposes &amp; Security of the Computer And Networks 
       </td>
       <td>&amp; Kali Linux, ParrotOS, Metasploitable, pfSense, WindowsServer 2019, Xfce, Gnome</td>
     </tr>
@@ -164,8 +172,9 @@ These tools, frameworks, techniques and technologies I have used in my cybersecu
       <td>&bull; Cloudflare, Firebase, DigitalOcean, Google Drive, Proxmox, TailScale</td>
     </tr>
   </table>
+<p>This lab isn't just a playground. It's where I test security tools, Break things, Defend, practice incident response, and develop the automation I share with my community.</p>
   
-## Github Stats
+## 📊 Github Stats
 <p align="center">
   <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
   <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
