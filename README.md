@@ -157,9 +157,9 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
         ⚙ Virtual Machines 
       </td>
       <td>
-        I have experienced with Metasploitable, Kali Linux, Parrot Security OS; I am now learning how to use pfSense for future purposes &amp; Security of the Computer And Networks 
+        &bull; I have experienced with Metasploitable, Kali Linux, Parrot Security OS; I am now learning how to use pfSense for future purposes &amp; Security of the Computer And Networks 
       </td>
-      <td>&amp; Kali Linux, ParrotOS, Metasploitable, pfSense, WindowsServer 2019, Xfce, Gnome</td>
+      <td>&bull; Kali Linux, ParrotOS, Metasploitable, pfSense, WindowsServer 2019, Xfce, Gnome</td>
     </tr>
     <tr>
       <td>🛡 Network &amp; Securities</td>
@@ -168,11 +168,11 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
     </tr>
     <tr>
       <td>☁ Cloud and Storage</td>
-      <td>I used this Softwares and Tools to make my projects &amp; capstones store data and Have Backups so that if ever my system got DDos attack or the cloud got databreach i have backups</td>
+      <td>&bull; I used this Softwares and Tools to make my projects &amp; capstones store data and Have Backups so that if ever my system got DDos attack or the cloud got databreach i have backups</td>
       <td>&bull; Cloudflare, Firebase, DigitalOcean, Google Drive, Proxmox, TailScale</td>
     </tr>
   </table>
-<p>This lab isn't just a playground. It's where I test security tools, Break things, Defend, practice incident response, and develop the automation I share with my community.</p>
+<p>&bull; This lab isn't just a playground. It's where I test security tools, Break things, Defend, practice incident response, and develop the automation I share with my community.</p>
   
 ## 📊 Github Stats
 <p align="center">
