@@ -163,7 +163,7 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
     </tr>
     <tr>
       <td>🛡 Network &amp; Securities</td>
-      <td>I used ProtonVPN for both mobile and computer for data encryption and to hide my ip from cyber criminals when connecting to public wifi's</td>
+      <td>&bull; I used ProtonVPN for both mobile and computer for data encryption and to hide my ip from cyber criminals when connecting to public wifi's</td>
       <td>&bull; ProtonVPN, TOR, Cloudflare, VirusTotal, Have I Been Pwned</td>
     </tr>
     <tr>
