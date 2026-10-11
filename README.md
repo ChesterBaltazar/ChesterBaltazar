@@ -188,5 +188,5 @@
 
 ## 🐧 Motto
 <p>
-  For Every Lock, There is Someone out There trying to Break in or Break in 
+  For Every Lock, There is Someone out There trying to Pick it or Break in 
 </p>
