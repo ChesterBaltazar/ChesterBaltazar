@@ -3,6 +3,9 @@
 <h1 align="center"><b>Hi I'm ChesterBaltazar a.k.a ChEsTeR005</b></h1>
 <p align="center"><i>IT student &bull; Security Enthusiast &bull; Python &bull; Open-Source Builder</i></p>
 <p align="center">
+    <a href="https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage">
+        <img src="https://img.shields.io/badge/Indeed-FFFFFF?style=for-the-badge&logo=indeed&logoColor=blue" alt="Indeed">
+    </a>
     <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -29,29 +32,33 @@
 ## ⏰ At a Glance 
 <table>
   <tr>
+    <td>💻 Experience</td>
+    <td>&bull; Community Service in City Hall as a student Assistant; What i do there is i Encode access points data in Excel for auditing and tracking purposes. &amp; Tested Kadiwa systems under development until its deployment, verifying its software and equipment functionality to catch issues early, before full deployment. &amp; Assisted in organizing a list of job orders and full-time personnels, giving the team a clearer, more accessible reference for workforce and summary.</td>
+  <tr>
+    <td> </td>
+    <td>&bull;</td>
+  </tr>
+  </tr>
+  <tr>
     <td>👤 About me</td>
     <td>
 
-I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy participating in CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio[-> here](https://seemycareerportfolionow.netlify.app).
+&bull; I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy participating in CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio[-> here](https://seemycareerportfolionow.netlify.app).
        </td>
   </tr>
   <tr>
-    <td>💻Desktop</td>
+    <td>💻 Desktop</td>
     <td>
     <p>
-        Omarchy as a daily drive, Kali linux for practicing my skills on cyber security and trying more distros in the future.
+        &bull; Omarchy as a daily drive, Kali linux for practicing my skills on cyber security and trying more distros in the future.
     </p>
     </td>
   </tr>
   <tr>
     <td>🏗️ Homelab Projects & Cyber Security Projects</td>
     <td>
-      pfSense as the IPS + Metasploitable as the target + Kali or Parrot OS as the attacker; Details below.
+      &bull; pfSense as the IPS + Metasploitable as the target + Kali or Parrot OS as the attacker; Details below.
     </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>💡 Retained knowledge</td>
@@ -109,11 +116,11 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
   </tr>
   <tr>
     <td>🧠 Cares about</td>
-    <td>End-to-end encryption, zero trust, owning your infrastructure, right to repair, privacy rights, threat monitoring, OSINT.</td>
+    <td>&bull; End-to-end encryption, zero trust, owning your infrastructure, right to repair, privacy rights, threat monitoring, OSINT.</td>
   </tr>
 </table>
 
-## Open Source Projects 
+## 🐧 Open Source Projects 
 ### Wifi Maper & Network Vulnerability and Security Scanner
 <table border="1">
   <tr>
@@ -148,7 +155,7 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
   </tr>
 </table>
 
-## 🏗 Homelab Stacks
+## 🧪 Homelab Stacks
 <p>Building, breaking, and learning in a production-grade home lab.</p>
   <table>
     <tr>
@@ -179,7 +186,7 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
   <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
 </p>
 
-## Motto
+## 🐧 Motto
 <p>
   For Every Lock, There is Someone out There trying to Break in or Break in 
 </p>
