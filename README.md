@@ -1,11 +1,7 @@
-<p>
-  <b>
-  <img src="https://komarev.com/ghpvc/?username=ChesterBaltazar&label=Profile%20views&color=9ECE6A&style=flat" alt="Profile views" />
-  </b>
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=ChesterBaltazar&label=Profile%20views&color=9ECE6A&style=flat)](https://github.com)
 
 <h1 align="center"><b>Hi I'm ChesterBaltazar a.k.a ChEsTeR005</b></h1>
-<p align="center">IT student | Security Enthusiast | Python | Aspiring Pentester</p>
+<p align="center"><i>IT student &bull; Security Enthusiast &bull; Python &bull; Open-Source Builder</i></p>
 <p align="center">
     <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -26,7 +22,7 @@
            <img src="https://img.shields.io/badge/Portswigger-white?style=for-the-badge&logo=portswigger" alt="Portwigger">
         </a>  
 </p>
-<p>I break things, fix things, and automate everything.</p>
+<p align="center"><i>I break things, fix things, and automate everything</i>.</p>
 
 ## Summary
 
@@ -41,9 +37,11 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
   </tr>
   <tr>
     <td>💻Desktop</td>
-    <td><p align="center">
-      <img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy&logoColor=%239ECE6A" alt="Omarchy">
-    </p>Omarchy as a daily drive, Kali linux for practicing my skills on cyber security and trying more distros in the future.</td>
+    <td>
+    <p>
+        Omarchy as a daily drive, Kali linux for practicing my skills on cyber security and trying more distros in the future.
+    </p>
+    </td>
   </tr>
   <tr>
     <td>🏗️ Homelab Projects & Cyber Security Projects</td>
@@ -80,6 +78,7 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy&logoColor=%239ECE6A" alt="Omarchy">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox" alt="Proxmox">
   <img src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi" alt="Raspberry Pi">
