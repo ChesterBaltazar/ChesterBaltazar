@@ -172,7 +172,7 @@ I am a security enthusiast driven by curiosity with a passion and drive for expl
       <td>&bull; Cloudflare, Firebase, DigitalOcean, Google Drive, Proxmox, TailScale</td>
     </tr>
   </table>
-<p>&bull; This lab isn't just a playground. It's where I test security tools, Break things, Defend, practice incident response, and develop the automation I share with my community.</p>
+<p><i>This lab isn't just a playground. It's where I test security tools, Break things, Defend, practice incident response, and develop the automation I share with my community<i>.</p>
   
 ## 📊 Github Stats
 <p align="center">
