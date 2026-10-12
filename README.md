@@ -31,7 +31,11 @@
 <table>
   <tr>
     <td>💻 Experience</td>
-    <td>&bull; Community Service in City Hall as a student Assistant; What i do there is i Encode access points data in Excel for auditing and tracking purposes. &amp; Tested Kadiwa systems under development until its deployment, verifying its software and equipment functionality to catch issues early, before full deployment. &amp; Assisted in organizing a list of job orders and full-time personnels, giving the team a clearer, more accessible reference for workforce and summary.</td>
+    <td>&bull; Community Service in City Hall as a student Assistant; What i do there is i Encode access points data in Excel for auditing and tracking purposes. &amp; Tested Kadiwa systems under development until its deployment, verifying its software and equipment functionality to catch issues early, before full deployment. &amp; Assisted in organizing a list of job orders and full-time personnels, giving the team a clearer, more accessible reference for workforce and summary.(2025 - 2026)</td>
+  <tr>
+    <td></td>
+    <td>&bull; </td>
+  </tr>
   <tr>
     <td> </td>
     <td>&bull;</td>
