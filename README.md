@@ -36,10 +36,6 @@
     <td></td>
     <td>&bull; </td>
   </tr>
-  <tr>
-    <td> </td>
-    <td>&bull;</td>
-  </tr>
   </tr>
   <tr>
     <td>👤 About me</td>
@@ -126,7 +122,7 @@
   </tr>
   <tr>
     <td><a href="">WinMap</a></td>
-    <td></td>
+    <td>Visualizes Gathered SSID &amp; BSSID and other information into Geolocation that was provided by leaflet WiGLE.net or WiGLE.(Ongoing)</td>
   </tr>
   <tr>
     <td><a href="">Web Security Vulnerability Scanner</a></td>
