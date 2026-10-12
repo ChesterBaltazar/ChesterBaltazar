@@ -1,5 +1,3 @@
-[![Profile views](https://komarev.com/ghpvc/?username=ChesterBaltazar&label=Profile%20views&color=9ECE6A&style=flat)](https://github.com)
-
 <h1 align="center"><b>Hi I'm ChesterBaltazar a.k.a ChEsTeR005</b></h1>
 <p align="center"><i>IT student &bull; Security Enthusiast &bull; Python &bull; Open-Source Builder</i></p>
 <p align="center">
@@ -50,14 +48,14 @@
     <td>💻 Desktop</td>
     <td>
     <p>
-        &bull; Omarchy as a daily drive, Kali linux for practicing my skills on cyber security and trying more distros in the future.
+        &bull; Ubuntu as a daily drive, Kali linux & Parrot OS for practicing my skills in cyber security.
     </p>
     </td>
   </tr>
   <tr>
     <td>🏗️ Homelab Projects & Cyber Security Projects</td>
     <td>
-      &bull; pfSense as the IPS + Metasploitable as the target + Kali or Parrot OS as the attacker; Details below.
+      &bull; pfSense + Suricata for IPS & IDS &amp; Metasploitable as the target + Kali or Parrot OS as the attacker; Details below.
     </td>
   </tr>
   <tr>
@@ -85,7 +83,7 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Omarchy-black?style=for-the-badge&logo=omarchy&logoColor=%239ECE6A" alt="Omarchy">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox" alt="Proxmox">
   <img src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi" alt="Raspberry Pi">
@@ -109,7 +107,7 @@
   <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socketdotio&logoColor=black" alt="Socket.io">
   <img src="https://img.shields.io/badge/ifixit-blue?style=for-the-badge&logo=ifixit&logoColor=white" alt="ifixit">
   <img src="https://img.shields.io/badge/pfSense-white?style=for-the-badge&logo=pfsense&logoColor=%23212121" alt="pfSense">
-  <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare">
+  <img src="https://img.shields.io/badge/Cloudflare-E95420?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare">
   <img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-black?style=for-the-badge&logo=haveibeenpwned&logoColor=white" alt="HaveIBeenPwned">
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="Virus Total">
     </td>
@@ -174,7 +172,7 @@
     </tr>
     <tr>
       <td>☁ Cloud and Storage</td>
-      <td>&bull; I used this Softwares and Tools to make my projects &amp; capstones store data and Have Backups so that if ever my system got DDos attack or the cloud got databreach i have backups</td>
+      <td>&bull; I used this Softwares and Tools to make my projects &amp; capstones store data and have Backups so that if ever the system got DDos attack or the server and cloud are down i have a backup.</td>
       <td>&bull; Cloudflare, Firebase, DigitalOcean, Google Drive, Proxmox, TailScale</td>
     </tr>
   </table>
