@@ -53,12 +53,6 @@
     </td>
   </tr>
   <tr>
-    <td>🏗️ Homelab Projects & Cyber Security Projects</td>
-    <td>
-      &bull; pfSense + Suricata for IPS & IDS &amp; Metasploitable as the target + Kali or Parrot OS as the attacker; Details below.
-    </td>
-  </tr>
-  <tr>
     <td>💡 Retained knowledge</td>
     <td>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
