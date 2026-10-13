@@ -72,6 +72,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React JS">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/hashcat-black?style=for-the-badge&logo=hashcat&logoColor=white" alt="hashcat">
   <img src="https://img.shields.io/badge/Metasploit-0067C5?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
   <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burpsuite">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
@@ -85,7 +86,9 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM">
+  <img src="https://img.shields.io/badge/Lazyvim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white" alt="Lazyvim">
   <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor">
+  <img src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" alt="Namecheap">
   <img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/tailscale-black?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
