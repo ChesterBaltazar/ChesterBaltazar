@@ -106,7 +106,7 @@
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
       <img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-black?style=for-the-badge&logo=haveibeenpwned&logoColor=white" alt="Have I Been Pwned">
       <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal">
-    </td>
+      </td>
   </tr>
   <tr>
     <td>🧠 Cares about</td>
