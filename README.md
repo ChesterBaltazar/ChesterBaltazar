@@ -33,7 +33,7 @@
   <tr>
     <td>💼 Experience</td>
     <td>
-      <b>Student Assistant, City Hall (Community Service), 2025 – 2026</b><br>
+      <b>City Hall | Student Volunteer Assistant  | Voluntary |  2025 – 2026</b><br>
       &bull; Encoded access point data in Excel for auditing and tracking.<br>
       &bull; Tested Kadiwa systems under development through deployment, verifying software and equipment functionality to catch issues early.<br>
       &bull; Helped organize a list of job order and full-time personnel, giving the team a clearer reference for workforce summaries.
@@ -42,14 +42,14 @@
   <tr>
     <td>👤 About me</td>
     <td>
-      I'm a security enthusiast driven by curiosity: I love exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy playing CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like helping people with their problems and passing on what I know.
+      I'm a 3rd year college and a security enthusiast i was driven by curiosity I love exploring operating systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy playing CTFs, reading security articles(The Hacker News, CISA), watching walkthroughs and learning from (Networkchuck, DavidBombal, Professormesser, JeremyItLabs), and practicing on platforms like TryHackMem, SwitchLab, ServiceDeskSimulator ,and HackTheBox. I also like helping people with their problems and passing on what I know.
       <br><br>
       Want to know more about me and my work? Take a look at my <a href="https://seemycareerportfolionow.netlify.app">portfolio</a>.
     </td>
   </tr>
   <tr>
     <td>🖥️ Desktop</td>
-    <td>&bull; Ubuntu as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills.</td>
+    <td>&bull; Ubuntu as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills and exploring some vulnerabilities in Metasploitable 2.</td>
   </tr>
   <tr>
     <td>💡 Retained knowledge</td>
@@ -124,12 +124,8 @@
     <th>What it does</th>
   </tr>
   <tr>
-    <td><!-- TODO: add repo link --><a href="#">WinMap</a></td>
+    <td><a href="#">WinMap</a></td>
     <td>Visualizes gathered SSID, BSSID, and other data as geolocation on a map, using Leaflet and data from <a href="https://wigle.net">WiGLE.net</a>. (Ongoing)</td>
-  </tr>
-  <tr>
-    <td><!-- TODO: add repo link --><a href="#">Web Security Vulnerability Scanner</a></td>
-    <td><i>Description coming soon.</i></td>
   </tr>
 </table>
 
@@ -141,12 +137,11 @@
     <th>What it does</th>
   </tr>
   <tr>
-    <td><!-- TODO: add repo link --><a href="#">Peer-to-Peer File Sharing Connectivity</a></td>
-    <td><i>Description coming soon.</i></td>
+  
   </tr>
   <tr>
-    <td><!-- TODO: add repo link --><a href="#">Campus Computer Laboratory Network Setup</a></td>
-    <td><i>Description coming soon.</i></td>
+    <th><a href="#">Campus Computer Laboratory Network Setup</a></th>
+    <th><i>Description coming soon.</i></th>
   </tr>
 </table>
 
