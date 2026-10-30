@@ -1,113 +1,111 @@
-<h1 align="center"><b>Hi I'm ChesterBaltazar a.k.a ChEsTeR005</b></h1>
-<p align="center"><i>IT student &bull; Security Enthusiast &bull; Python &bull; Open-Source Builder</i></p>
+<h1 align="center">Hi, I'm Chester Baltazar a.k.a. ChEsTeR005</h1>
+<p align="center"><i>IT Student &bull; Security Enthusiast &bull; Python &bull; Open-Source Builder</i></p>
+
 <p align="center">
-    <a href="https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage">
-        <img src="https://img.shields.io/badge/Indeed-FFFFFF?style=for-the-badge&logo=indeed&logoColor=blue" alt="Indeed">
-    </a>
-    <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.youtube.com/@Chester.005" target="_blank">
+  <a href="https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-FFFFFF?style=for-the-badge&logo=indeed&logoColor=blue" alt="Indeed">
+  </a>
+  <a href="https://www.linkedin.com/in/chester-jeffrey-baltazar-692b98268" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@Chester.005" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="https://profile.hackthebox.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
-      </a>
-        <a href="https://tryhackme.com/p/MrBotPH" target="_blank">
-          <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-        </a>
-        <a href="https://learn.cylabacademy.org/account" target="_blank">
-          <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
-        </a>
-        <a href="" target="blank">
-           <img src="https://img.shields.io/badge/Portswigger-white?style=for-the-badge&logo=portswigger" alt="Portwigger">
-        </a>  
+  </a>
+  <a href="https://profile.hackthebox.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
+  </a>
+  <a href="https://tryhackme.com/p/MrBotPH" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://learn.cylabacademy.org/account" target="_blank">
+    <img src="https://img.shields.io/badge/PicoCTF-820A00?style=for-the-badge&logoColor=white" alt="PicoCTF">
+  </a>
+  <a href="https://portswigger.net/web-security" target="_blank">
+    <img src="https://img.shields.io/badge/PortSwigger-white?style=for-the-badge&logo=portswigger" alt="PortSwigger">
+  </a>
 </p>
-<p align="center"><i>I break things, fix things, and automate everything</i>.</p>
 
-## Summary
+<p align="center"><i>I break things, fix things, and automate everything.</i></p>
 
-## ⏰ At a Glance 
+## ⏰ At a Glance
+
 <table>
   <tr>
-    <td>💻 Experience</td>
-    <td>&bull; Community Service in City Hall as a student Assistant; What i do there is i Encode access points data in Excel for auditing and tracking purposes. &amp; Tested Kadiwa systems under development until its deployment, verifying its software and equipment functionality to catch issues early, before full deployment. &amp; Assisted in organizing a list of job orders and full-time personnels, giving the team a clearer, more accessible reference for workforce and summary.(2025 - 2026)</td>
-  <tr>
-    <td></td>
-    <td>&bull; </td>
-  </tr>
+    <td>💼 Experience</td>
+    <td>
+      <b>Student Assistant, City Hall (Community Service), 2025 – 2026</b><br>
+      &bull; Encoded access point data in Excel for auditing and tracking.<br>
+      &bull; Tested Kadiwa systems under development through deployment, verifying software and equipment functionality to catch issues early.<br>
+      &bull; Helped organize a list of job order and full-time personnel, giving the team a clearer reference for workforce summaries.
+    </td>
   </tr>
   <tr>
     <td>👤 About me</td>
     <td>
-
-&bull; I am a security enthusiast driven by curiosity with a passion and drive for exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy participating in CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like to help people with problems and pass on what I know in the areas that interest me. If you want to get to know me and my work better, take a look at my portfolio[-> here](https://seemycareerportfolionow.netlify.app).
-       </td>
+      I'm a security enthusiast driven by curiosity: I love exploring systems, finding vulnerabilities, and understanding how things break so I can help strengthen them. I enjoy playing CTFs, reading security articles, watching walkthroughs, and practicing on platforms like TryHackMe and HackTheBox. I also like helping people with their problems and passing on what I know.
+      <br><br>
+      Want to know more about me and my work? Take a look at my <a href="https://seemycareerportfolionow.netlify.app">portfolio</a>.
+    </td>
   </tr>
   <tr>
-    <td>💻 Desktop</td>
-    <td>
-    <p>
-        &bull; Ubuntu as a daily drive, Kali linux & Parrot OS for practicing my skills in cyber security.
-    </p>
-    </td>
+    <td>🖥️ Desktop</td>
+    <td>&bull; Ubuntu as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills.</td>
   </tr>
   <tr>
     <td>💡 Retained knowledge</td>
     <td>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React JS">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/hashcat-black?style=for-the-badge&logo=hashcat&logoColor=white" alt="hashcat">
-  <img src="https://img.shields.io/badge/Metasploit-0067C5?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burpsuite">
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/GIMP-FFFFFF?style=for-the-badge&logo=gimp&logoColor=%238C8073" alt="GIMP">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox" alt="Proxmox">
-  <img src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
-  <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM">
-  <img src="https://img.shields.io/badge/Lazyvim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white" alt="Lazyvim">
-  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor">
-  <img src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" alt="Namecheap">
-  <img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/tailscale-black?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
-  <img src="https://img.shields.io/badge/GNOME%20terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="GNOME Ternimal">
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
-  <img src="https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
-  <img src="https://img.shields.io/badge/parrot_security-f5f5f5?style=for-the-badge&logo=parrotsecurity&logoColor=%2315E0ED" alt="Parrot OS">
-  <img src="https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
-  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Linksys-black?style=for-the-badge&logo=linksys&logoColor=white" alt="Linksys">
-  <img src="https://img.shields.io/badge/tplink-blue?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
-  <img src="https://img.shields.io/badge/Proton%20VPN-gray?style=for-the-badge&logo=protonvpn&logoColor=%2366DEB1" alt="Proton VPN">
-  <img src="https://img.shields.io/badge/Splunk-orange?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
-  <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socketdotio&logoColor=black" alt="Socket.io">
-  <img src="https://img.shields.io/badge/ifixit-blue?style=for-the-badge&logo=ifixit&logoColor=white" alt="ifixit">
-  <img src="https://img.shields.io/badge/pfSense-white?style=for-the-badge&logo=pfsense&logoColor=%23212121" alt="pfSense">
-  <img src="https://img.shields.io/badge/Cloudflare-E95420?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare">
-  <img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-black?style=for-the-badge&logo=haveibeenpwned&logoColor=white" alt="HaveIBeenPwned">
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="Virus Total">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+      <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React JS">
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+      <img src="https://img.shields.io/badge/hashcat-black?style=for-the-badge&logo=hashcat&logoColor=white" alt="hashcat">
+      <img src="https://img.shields.io/badge/Metasploit-0067C5?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+      <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+      <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
+      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
+      <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/GIMP-FFFFFF?style=for-the-badge&logo=gimp&logoColor=%238C8073" alt="GIMP">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+      <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox" alt="Proxmox">
+      <img src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi" alt="Raspberry Pi">
+      <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
+      <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
+      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
+      <img src="https://img.shields.io/badge/Lazyvim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white" alt="LazyVim">
+      <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor">
+      <img src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" alt="Namecheap">
+      <img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/tailscale-black?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
+      <img src="https://img.shields.io/badge/GNOME%20terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="GNOME Terminal">
+      <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+      <img src="https://img.shields.io/badge/tplink-%234ACBD6.svg?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link">
+      <img src="https://img.shields.io/badge/parrot_security-f5f5f5?style=for-the-badge&logo=parrotsecurity&logoColor=%2315E0ED" alt="Parrot OS">
+      <img src="https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
+      <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+      <img src="https://img.shields.io/badge/Linksys-black?style=for-the-badge&logo=linksys&logoColor=white" alt="Linksys">
+      <img src="https://img.shields.io/badge/Proton%20VPN-gray?style=for-the-badge&logo=protonvpn&logoColor=%2366DEB1" alt="Proton VPN">
+      <img src="https://img.shields.io/badge/Splunk-orange?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
+      <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socketdotio&logoColor=black" alt="Socket.io">
+      <img src="https://img.shields.io/badge/ifixit-blue?style=for-the-badge&logo=ifixit&logoColor=white" alt="iFixit">
+      <img src="https://img.shields.io/badge/pfSense-white?style=for-the-badge&logo=pfsense&logoColor=%23212121" alt="pfSense">
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+      <img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-black?style=for-the-badge&logo=haveibeenpwned&logoColor=white" alt="Have I Been Pwned">
+      <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal">
     </td>
   </tr>
   <tr>
@@ -116,73 +114,78 @@
   </tr>
 </table>
 
-## 🐧 Open Source Projects 
-### Wifi Maper & Network Vulnerability and Security Scanner
-<table border="1">
-  <tr>
-    <th>Project</th>
-    <th>What it Does</th>
-  </tr>
-  <tr>
-    <td><a href="">WinMap</a></td>
-    <td>Visualizes Gathered SSID &amp; BSSID and other information into Geolocation that was provided by leaflet WiGLE.net or WiGLE.(Ongoing)</td>
-  </tr>
-  <tr>
-    <td><a href="">Web Security Vulnerability Scanner</a></td>
-    <td></td>
-  </tr>
-</table>
+## 🐧 Open Source Projects
 
-### Networking & Connectivity
+### Wi-Fi Mapper & Network Vulnerability / Security Scanner
+
 <table>
   <tr>
     <th>Project</th>
     <th>What it does</th>
   </tr>
   <tr>
-    <td><a href="">Peer-to-Peer File Sharing Connectivity</a></td>
-    <td></td>
+    <td><!-- TODO: add repo link --><a href="#">WinMap</a></td>
+    <td>Visualizes gathered SSID, BSSID, and other data as geolocation on a map, using Leaflet and data from <a href="https://wigle.net">WiGLE.net</a>. (Ongoing)</td>
   </tr>
   <tr>
-    <td>
-      <a href="">Campus Computer Laboratory Network Setup</a></td>
-    <td>
-</td>
+    <td><!-- TODO: add repo link --><a href="#">Web Security Vulnerability Scanner</a></td>
+    <td><i>Description coming soon.</i></td>
+  </tr>
+</table>
+
+### Networking & Connectivity
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>What it does</th>
+  </tr>
+  <tr>
+    <td><!-- TODO: add repo link --><a href="#">Peer-to-Peer File Sharing Connectivity</a></td>
+    <td><i>Description coming soon.</i></td>
+  </tr>
+  <tr>
+    <td><!-- TODO: add repo link --><a href="#">Campus Computer Laboratory Network Setup</a></td>
+    <td><i>Description coming soon.</i></td>
   </tr>
 </table>
 
 ## 🧪 Homelab Stacks
+
 <p>Building, breaking, and learning in a production-grade home lab.</p>
-  <table>
-    <tr>
-      <td>
-        ⚙ Virtual Machines 
-      </td>
-      <td>
-        &bull; I have experienced with Metasploitable, Kali Linux, Parrot Security OS; I am now learning how to use pfSense for future purposes &amp; Security of the Computer And Networks 
-      </td>
-      <td>&bull; Kali Linux, ParrotOS, Metasploitable, pfSense, WindowsServer 2019, Xfce, Gnome</td>
-    </tr>
-    <tr>
-      <td>🛡 Network &amp; Securities</td>
-      <td>&bull; I used ProtonVPN for both mobile and computer for data encryption and to hide my ip from cyber criminals when connecting to public wifi's</td>
-      <td>&bull; ProtonVPN, TOR, Cloudflare, VirusTotal, Have I Been Pwned</td>
-    </tr>
-    <tr>
-      <td>☁ Cloud and Storage</td>
-      <td>&bull; I used this Softwares and Tools to make my projects &amp; capstones store data and have Backups so that if ever the system got DDos attack or the server and cloud are down i have a backup.</td>
-      <td>&bull; Cloudflare, Firebase, DigitalOcean, Google Drive, Proxmox, TailScale</td>
-    </tr>
-  </table>
-<p><i>This lab isn't just a playground. It's where I test security tools, Break things, Defend, practice incident response, and develop the automation I share with my community<i>.</p>
-  
-## 📊 Github Stats
+
+<table>
+  <tr>
+    <th>Area</th>
+    <th>What I do</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>⚙️ Virtual Machines</td>
+    <td>&bull; Experienced with Metasploitable, Kali Linux, and Parrot Security OS. Currently learning pfSense for computer and network security.</td>
+    <td>&bull; Kali Linux, ParrotOS, Metasploitable, pfSense, Windows Server 2019, Xfce, GNOME</td>
+  </tr>
+  <tr>
+    <td>🛡️ Network &amp; Security</td>
+    <td>&bull; I use ProtonVPN on mobile and desktop to encrypt my data and hide my IP when connecting to public Wi-Fi.</td>
+    <td>&bull; ProtonVPN, Tor, Cloudflare, VirusTotal, Have I Been Pwned</td>
+  </tr>
+  <tr>
+    <td>☁️ Cloud &amp; Storage</td>
+    <td>&bull; I use these tools to store my projects' and capstones' data and keep backups, so I can recover if a system is hit by a DDoS attack or the server or cloud goes down.</td>
+    <td>&bull; Cloudflare, Firebase, DigitalOcean, Google Drive, Proxmox, Tailscale</td>
+  </tr>
+</table>
+
+<p><i>This lab isn't just a playground. It's where I test security tools, break things, defend, practice incident response, and develop the automation I share with my community.</i></p>
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img alt="GitStats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
-  <img alt="Top Langs" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
+  <img alt="GitHub Stats" width="47%" src="https://github-stats-extended.vercel.app/api?username=ChesterBaltazar&rank_icon=github&custom_title=Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
+  <img alt="Top Languages" width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChesterBaltazar&layout=compact&langs_count=15&hide_values=true&theme=dark_github" />
 </p>
 
 ## 🐧 Motto
-<p>
-  For Every Lock, There is Someone out There trying to Pick it or Break in 
-</p>
+
+<p>For every lock, there is someone out there trying to pick it or break in.</p>
