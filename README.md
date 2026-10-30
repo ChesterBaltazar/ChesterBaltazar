@@ -48,6 +48,13 @@
     </td>
   </tr>
   <tr>
+    <th> 🕹 Hobby</th>
+    <th>
+      <img src="https://img.shields.io/badge/ServiceDesk%20Simulator-blue?style=for-the-badge" alt="ServiceDesk Simulator"> 
+      <img src="https://img.shields.io/badge/SwitchLAB-blue?style=for-the-badge" alt="SwitchLAB">
+    </th>
+  </tr>
+  <tr>
     <td>🖥️ Desktop</td>
     <td>&bull; Ubuntu as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills and exploring some vulnerabilities in Metasploitable 2.</td>
   </tr>
@@ -102,7 +109,6 @@
       <img src="https://img.shields.io/badge/Splunk-orange?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
       <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socketdotio&logoColor=black" alt="Socket.io">
       <img src="https://img.shields.io/badge/ifixit-blue?style=for-the-badge&logo=ifixit&logoColor=white" alt="iFixit">
-      <img src="https://img.shields.io/badge/pfSense-white?style=for-the-badge&logo=pfsense&logoColor=%23212121" alt="pfSense">
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
       <img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-black?style=for-the-badge&logo=haveibeenpwned&logoColor=white" alt="Have I Been Pwned">
       <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal">
