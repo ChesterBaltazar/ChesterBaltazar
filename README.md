@@ -50,6 +50,7 @@
   <tr>
     <th> 🕹 Hobby</th>
     <th>
+      <img src="https://img.shields.io/badge/Practical%20Networking-FF4D00?style=for-the-badge&logo=practicalnetworking" alt="Practical Networking">
       <img src="https://img.shields.io/badge/ServiceDesk%20Simulator-blue?style=for-the-badge" alt="ServiceDesk Simulator"> 
       <img src="https://img.shields.io/badge/SwitchLAB-blue?style=for-the-badge" alt="SwitchLAB">
     </th>
