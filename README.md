@@ -80,7 +80,7 @@
       <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React JS">
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
       <img src="https://img.shields.io/badge/hashcat-black?style=for-the-badge&logo=hashcat&logoColor=white" alt="hashcat">
-      <img src="https://img.shields.io/badge/Metasploit-0067C5?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+      <img src="https://img.shields.io/badge/Metasploit-0067C5?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploitable">
       <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
       <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
       <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
@@ -89,6 +89,7 @@
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
       <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox" alt="Proxmox">
+     <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="Anydesk">
       <img src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi" alt="Raspberry Pi">
       <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
       <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
