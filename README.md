@@ -56,8 +56,11 @@
     </th>
   </tr>
   <tr>
-    <td>🖥️ Desktop</td>
-    <td>&bull; Ubuntu as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills and exploring some vulnerabilities in Metasploitable 2.</td>
+    <th>🖥️ Desktop</th>
+    <th>
+      <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian">
+     13 as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills and exploring some vulnerabilities in Metasploitable 2.
+    </th>
   </tr>
   <tr>
     <td>💡 Retained knowledge</td>
@@ -89,7 +92,7 @@
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
       <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox" alt="Proxmox">
-     <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="Anydesk">
+      <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="Anydesk">
       <img src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi" alt="Raspberry Pi">
       <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
       <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
@@ -114,7 +117,7 @@
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
       <img src="https://img.shields.io/badge/Have%20I%20Been%20Pwned-black?style=for-the-badge&logo=haveibeenpwned&logoColor=white" alt="Have I Been Pwned">
       <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal">
-      </td>
+    </td>
   </tr>
   <tr>
     <td>🧠 Cares about</td>
@@ -143,9 +146,6 @@
   <tr>
     <th>Project</th>
     <th>What it does</th>
-  </tr>
-  <tr>
-  
   </tr>
   <tr>
     <th><a href="#">Campus Computer Laboratory Network Setup</a></th>
