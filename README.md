@@ -91,10 +91,10 @@
       <img src="https://img.shields.io/badge/GIMP-FFFFFF?style=for-the-badge&logo=gimp&logoColor=%238C8073" alt="GIMP">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-      <img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox" alt="Proxmox">
       <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="Anydesk">
       <img src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi" alt="Raspberry Pi">
       <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
+     <img src="https://img.shields.io/badge/ngrok-white?style=for-the-badge&logo=ngrok&logoColor=gray" alt="ngrok">
       <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
       <img src="https://img.shields.io/badge/Lazyvim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white" alt="LazyVim">
