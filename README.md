@@ -59,7 +59,7 @@
     <th>🖥️ Desktop</th>
     <th>
       <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian">
-     13 as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills and exploring some vulnerabilities in Metasploitable 2.
+     13 (trixie) as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills and exploring some vulnerabilities in Metasploitable 2.
     </th>
   </tr>
   <tr>
