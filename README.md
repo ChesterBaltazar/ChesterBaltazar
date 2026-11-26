@@ -58,8 +58,7 @@
   <tr>
     <th>🖥️ Desktop</th>
     <th>
-      <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian">
-     13 (trixie) as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills and exploring some vulnerabilities in Metasploitable 2.
+     Debian 13 (trixie) as my daily driver; Kali Linux and Parrot OS for practicing cybersecurity skills and exploring some vulnerabilities in Metasploitable 2.
     </th>
   </tr>
   <tr>
@@ -89,7 +88,7 @@
       <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
       <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
       <img src="https://img.shields.io/badge/GIMP-FFFFFF?style=for-the-badge&logo=gimp&logoColor=%238C8073" alt="GIMP">
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=A81D33" alt="Debian 13 trixie">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
       <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="Anydesk">
       <img src="https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi" alt="Raspberry Pi">
